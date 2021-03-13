@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   
-![](https://github.com/Kary-AG/Proof/blob/main/Screenshot_from_2021-03-13_13-08-15-removebg-preview.png) 
+![](https://github.com/Kary-AG/Kary-AG/blob/main/img/HWG.png) 
 
 </div>
 <p align="center">
