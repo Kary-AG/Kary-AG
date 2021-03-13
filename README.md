@@ -48,8 +48,7 @@ Here are some ideas to get you started:
   - [Hash Code 2021](https://github.com/Kary-AG/hashcode)
 <p align= "center"> 
   <b>Visitor count</b><br>
- <a href='http://www.freevisitorcounters.com'>www.freevisitorcounters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=4e8006b3b616869e0155860f52362a447e4c3ede'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/805528/t/13"></script>
+
 </p>
 
 <img src ="https://github.com/Kary-AG/Proof/blob/main/Untitled__1_-removebg-preview.png" align="right" width= 45 height = 45>
