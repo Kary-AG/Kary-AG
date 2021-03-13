@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - [Discrete Structures](https://github.com/Kary-AG/ED-2021)
   - [Intro for Computer Science](https://github.com/Kary-AG/ICC) 
 
-### Study Group / Communites 📝
+### Study Group / Communities 📝
  
   - [Java for Beginners](https://github.com/Kary-AG/JAVA) 
   - [Prope-100cias](https://www.facebook.com/Prope-100cias-102988908116080)
