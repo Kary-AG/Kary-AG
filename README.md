@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/Kary-AG/Proof/blob/main/Untitled%20(2).jpg)
+![](https://github.com/Kary-AG/Kary-AG/blob/main/img/background.jpg)
 
 <div align="center"> 
   
@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 </p>
 
-<img src ="https://github.com/Kary-AG/Proof/blob/main/Untitled__1_-removebg-preview.png" align="right" width= 45 height = 45>
+<img src ="https://github.com/Kary-AG/Kary-AG/blob/main/img/flag.png" align="right" width= 45 height = 45>
