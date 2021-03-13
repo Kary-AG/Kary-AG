@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   - [Hash Code 2021](https://github.com/Kary-AG/hashcode)
 <p align= "center"> 
   <b>Visitor count</b><br>
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gnqqnd&nd=6&style=71" border="0" alt="web counter"></a>
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gurnqqoa&nd=6&style=1" border="0" alt="free counter"></a>
 </p>
 
 <img src ="https://github.com/Kary-AG/Proof/blob/main/Untitled__1_-removebg-preview.png" align="right" width= 45 height = 45>
