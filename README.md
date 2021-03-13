@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/kary_agarcia">Twitter</a> •
 </p>
 
-# Hi, I'm Kary! :octocat: <img src = "https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar.gif" width=35 height=35>, a **computer science student** <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> and a passionate haskell programmer. *(noob)* <img src= "https://talks.diogocastro.com/the-haskell-epidemic/img/langs/haskell.png" width=40 height= 35>
+# Hi, I'm Kary! :octocat: <img src = "https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar.gif" width=35 height=35> a **computer science student** <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> and a passionate haskell programmer. *(noob)* <img src= "https://talks.diogocastro.com/the-haskell-epidemic/img/langs/haskell.png" width=40 height= 35>
  
  ### Schoolar Projects 🍎📘
   
