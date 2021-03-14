@@ -31,7 +31,7 @@ Hi, I'm Kary! :octocat:  <img src = "https://gifs.org.es/gifs/2020/09/7215/gif-p
  ### Schoolar Projects 🍎📘
   
   - [Discrete Structures](https://github.com/Kary-AG/ED-2021)
-  - [Intro for Computer Science](https://github.com/Kary-AG/ICC) 
+  - [Introduction to Computer Science](https://github.com/Kary-AG/ICC) 
 
 ### Study Group / Communities 📝
  
