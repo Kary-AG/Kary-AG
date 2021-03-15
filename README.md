@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 <p align="center">
 </a> •
-  <a href="https://kary.io">Blog</a> •
+  <a href="">Blog</a> •
   <a href="https://twitter.com/kary_agarcia">Twitter</a> •
 </p>
 
