@@ -37,6 +37,7 @@ Hi, I'm Kary! <img src = "https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar
  
   - [Java for Beginners](https://github.com/Kary-AG/JAVA) 
   - [Prope-100cias](https://www.facebook.com/Prope-100cias-102988908116080)
+  - [PyLadiescbba](https://www.instagram.com/pyladiescbba/)
   
 ### Personal Projects 🤹‍ 🤯
 
