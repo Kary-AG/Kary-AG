@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 </p>
 
 Hi, I'm Kary! <img src = "https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar.gif" width=35 height=35> a **computer science student** <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> and a passionate haskell programmer. *(noob)* <img src= "https://talks.diogocastro.com/the-haskell-epidemic/img/langs/haskell.png" width=40 height= 35>
+
+ ### Experience 
+   - Data Base Developer HSBC
  
  ### Schoolar Projects 🍎📘
   
@@ -43,11 +46,12 @@ Hi, I'm Kary! <img src = "https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar
 
   - [Configuration files for doom-emacs and xmonad.](https://github.com/Kary-AG/config)
   - [Daily Coding Challenge](https://github.com/Kary-AG/DailyCodingChallenge)
-
+  - [InstaBot]()
 ### Events 🥇 🎊
 
   - [HackLatam 2021](https://github.com/Kary-AG/HackLatam2021) 
   - [Hash Code 2021](https://github.com/Kary-AG/hashcode)
+  - [Puma Hack 2021]
 <p align= "center"> 
   <b>Visitor count</b><br>
 
